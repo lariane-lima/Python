@@ -11,4 +11,4 @@ def fatoracao(n):
     print(1)
 
 n = int(input('Digite um número natural não nulo: '))
-fatoração(n)
+fatoracao(n)
